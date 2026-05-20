@@ -17,24 +17,20 @@ Built mainly as a low-level programming and algorithm practice project.
 
 ---
 
-## 📸 Preview
-
-### Benchmark Output
-
-[Benchmark Screenshot](docs/screenshots/benchmark.png)
+![Benchmark Screenshot](docs/screenshots/benchmark.png)
 
 ---
 
 # ✨ Features
 
-- 🔹 Multiple sorting algorithms implemented from scratch
-- 🔹 Benchmark runner with formatted terminal UI
-- 🔹 Integer + floating point dataset support
-- 🔹 Random dataset generators
-- 🔹 ANSI-colored CLI interface
-- 🔹 Modular project structure
-- 🔹 Makefile build system
-- 🔹 Dynamic memory cleanup and allocation checks
+- Multiple sorting algorithms implemented from scratch
+- Benchmark runner with formatted terminal UI
+- Integer + floating point dataset support
+- Random dataset generators
+- ANSI-colored CLI interface
+- Modular project structure
+- Makefile build system
+- Dynamic memory cleanup and allocation checks
 
 ---
 
@@ -246,4 +242,4 @@ Designed mainly to improve readability and terminal presentation.
 
 ## 📜 License
 
-MIT License
+MIT License - see [LICENSE](LICENSE) for details.
