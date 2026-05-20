@@ -1,0 +1,18 @@
+# Build directories
+bin/
+obj/
+
+# Compiled objects / binaries
+*.o
+*.out
+
+# Generated executables
+run
+num_generator
+decimal_generator
+
+# Generated datasets
+input/*.txt
+
+# macOS
+.DS_Store
